@@ -64,4 +64,3 @@
 # (Hint: Use print() and add a comment explaining what it does.)
 # (Hint: Use print() and add a comment explaining what it does.)
 print(49 ** 0.5) #It calculates the sqrt of 49.
-
